@@ -1,0 +1,7 @@
+C:\Users\Pro\Desktop\TemplateConsoleApp\TemplateConsoleApp\obj\Debug\TemplateConsoleApp.csprojAssemblyReference.cache
+C:\Users\Pro\Desktop\TemplateConsoleApp\TemplateConsoleApp\obj\Debug\TemplateConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Pro\Desktop\TemplateConsoleApp\TemplateConsoleApp\bin\Debug\TemplateConsoleApp.exe.config
+C:\Users\Pro\Desktop\TemplateConsoleApp\TemplateConsoleApp\bin\Debug\TemplateConsoleApp.exe
+C:\Users\Pro\Desktop\TemplateConsoleApp\TemplateConsoleApp\bin\Debug\TemplateConsoleApp.pdb
+C:\Users\Pro\Desktop\TemplateConsoleApp\TemplateConsoleApp\obj\Debug\TemplateConsoleApp.exe
+C:\Users\Pro\Desktop\TemplateConsoleApp\TemplateConsoleApp\obj\Debug\TemplateConsoleApp.pdb
